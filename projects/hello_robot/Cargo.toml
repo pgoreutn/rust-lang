@@ -1,0 +1,5 @@
+[package]
+name = "hello_robot"
+version = "0.1.0"
+authors = ["Pablo Martin Gore <pablo.m.gore@gmail.com>"]
+edition = "2018"
