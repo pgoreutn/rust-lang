@@ -11,3 +11,4 @@ Rust notes
 6. [The Slice Type](06.md)
 7. [Using structs to structure related data](07.md)
 8. [Enums and Pattern Matching](08.md)
+9. [Common Collections](09.md)
