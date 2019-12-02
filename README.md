@@ -9,4 +9,5 @@ Rust notes
 4. [ Rust Module Essentials](04.md)
 5. [ Understanding Ownership](05.md)
 6. [The Slice Type](06.md)
-6. [Using structs to structure related data](07.md)
+7. [Using structs to structure related data](07.md)
+8. [Enums and Pattern Matching](08.md)
