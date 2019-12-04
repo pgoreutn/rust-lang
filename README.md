@@ -12,3 +12,5 @@ Rust notes
 7. [Using structs to structure related data](07.md)
 8. [Enums and Pattern Matching](08.md)
 9. [Common Collections](09.md)
+10. [Error Handling](10.md)
+
